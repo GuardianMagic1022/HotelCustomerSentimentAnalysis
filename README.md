@@ -1,0 +1,2 @@
+• Implemented sentiment analysis on 350+ hotels using Python and NLTK’s Vader, enhancing the detection of nuanced expressions, including sarcasm, to better align Vader scores with actual guest ratings.
+• Refined sentiment evaluation using mutual information and custom NLP grammars, achieving an 18.5% improvement in accuracy for distinguishing positive and negative tones, driving targeted guest satisfaction improvements.
